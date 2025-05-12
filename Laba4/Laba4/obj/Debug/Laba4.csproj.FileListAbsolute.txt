@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Laba4\Laba4\bin\Debug\Laba4.exe.config
+C:\Users\ASUS\source\repos\Laba4\Laba4\bin\Debug\Laba4.exe
+C:\Users\ASUS\source\repos\Laba4\Laba4\bin\Debug\Laba4.pdb
+C:\Users\ASUS\source\repos\Laba4\Laba4\obj\Debug\Laba4.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Laba4\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Laba4\Laba4\obj\Debug\Laba4.exe
+C:\Users\ASUS\source\repos\Laba4\Laba4\obj\Debug\Laba4.pdb
